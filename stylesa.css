@@ -146,7 +146,7 @@
             width: 100%;
             height: auto;
             border-radius: 0px;
-            background: #1EB2B2;
+            background: #cc080d;
             box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
         }
         /* Wallet Container */
@@ -155,7 +155,7 @@
             width: 91.5%;
             margin: 0 auto;
             max-width: 100%;
-            background-color: #1EB2B2;
+            background-color: #cc080d;
             border-radius: 20px;
             padding: 8px;
             color: white;
@@ -523,9 +523,9 @@ box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
         }
 
         .tabhsatu.activehsatu {
-            background: #1EB2B2; 
+            background: #cc080d; 
             color: white;
-            border-color: #1EB2B2;
+            border-color: #cc080d;
             font-weight: bold;
         }
 
@@ -574,7 +574,7 @@ box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
         .slidee img {
             width: 100%;
             display: block;
-            background: #1EB2B2;
+            background: #cc080d;
         }
 
         .slidee-content {
@@ -999,7 +999,7 @@ width:auto !important;
 .item-nearby-distance {  
 margin-left: 150px !important;
 margin-top:3px !important; 
-color:#1EB2B2; 
+color:#cc080d; 
 text-align:left;
 display: block; 
 font-size: 13px !important; 
@@ -1089,7 +1089,7 @@ text-align:center;
         .balance-card .underline {
             width: 75%;
             height: 4px;
-            background-color: #1EB2B2;
+            background-color: #cc080d;
             border-radius: 5px;
             position: absolute;
             bottom: 10px;
@@ -1140,8 +1140,8 @@ text-align:center;
     background: orange;
 }
 
-.#1EB2B2-line {
-    background: #1EB2B2;
+.#cc080d-line {
+    background: #cc080d;
 }
         .point-card i {
             font-size: 14px;
@@ -1206,7 +1206,7 @@ text-align:center;
     }
 
     .filter-btn.active {
-        background-color: #1EB2B2;
+        background-color: #cc080d;
         color: #fff;
     }
 
@@ -1265,7 +1265,7 @@ text-align:center;
     }
 
     .copy-btn:hover {
-        background: #1EB2B2;
+        background: #cc080d;
     }
 
     .voucher-divider {
@@ -1533,7 +1533,7 @@ overflow-y: hidden;
       background: #e8f5e9;
     }
     .status-menunggu {
-      color: #1EB2B2;
+      color: #cc080d;
       background: #fff3cd;
     }
     .status-ditolak {
@@ -1576,7 +1576,7 @@ overflow-y: hidden;
         .avatar {
             width: 60px !important;
             height: 60px !important;
-            background-color: #1EB2B2;
+            background-color: #cc080d;
             color: #fff;
             font-weight: bold;
             font-size: 22px;
@@ -1657,7 +1657,7 @@ overflow-y: hidden;
         }
 
         .badge {
-            background-color: #1EB2B2;
+            background-color: #cc080d;
             color: #fff !important;
             font-size: 12px !important;
             padding: 3px 10px;
@@ -1718,7 +1718,7 @@ overflow-y: hidden;
 }
 
 .swal-confirm-button {
-    background-color: #1EB2B2 !important; /* Warna background tombol */
+    background-color: #cc080d !important; /* Warna background tombol */
     color: white !important; /* Warna teks tombol */
     font-weight: bold;
     border-radius: 8px;
@@ -1804,7 +1804,7 @@ overflow-y: hidden;
 
         .kontenMP-optionMP {
             background-color: #fff;
-            border: 2px solid #1EB2B2;
+            border: 2px solid #cc080d;
             border-radius: 12px;
             padding: 15px;
             margin-bottom: 15px;
@@ -1842,7 +1842,7 @@ overflow-y: hidden;
         }
 
         .pesan-button {
-            background-color: #1EB2B2;
+            background-color: #cc080d;
             color: #fff;
             font-size: 13px;
             padding: 6px 12px;
@@ -1850,5 +1850,6 @@ overflow-y: hidden;
             text-decoration: none;
             font-weight: bold;
         }
+
 
 
